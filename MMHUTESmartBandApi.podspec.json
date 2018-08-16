@@ -1,0 +1,17 @@
+{
+  "name": "MMHUTESmartBandApi",
+  "version": "1.0.5",
+  "homepage": "https://github.com/feixue299/MMHUTESmartBandApi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "1569485690@qq.com",
+  "source": {
+    "http": "https://smart.mmhretail.com/file/UTESmartBandApi.framework.zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "vendored_frameworks": "UTESmartBandApi.framework",
+}
