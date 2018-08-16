@@ -1,11 +1,11 @@
 {
   "name": "MMHUTESmartBandApi",
   "summary": "手环API",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "homepage": "https://github.com/feixue299/MMHUTESmartBandApi",
   "license": {
-    "type": "MIT",
-    "file": "LICENSE"
+    "type": "Copyright",
+    "text": "Copyright 2018 MMH"
   },
   "authors": "1569485690@qq.com",
   "source": {
