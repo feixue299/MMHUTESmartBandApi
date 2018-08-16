@@ -1,6 +1,7 @@
 {
   "name": "MMHUTESmartBandApi",
-  "version": "1.0.6",
+  "summary": "手环API",
+  "version": "1.0.7",
   "homepage": "https://github.com/feixue299/MMHUTESmartBandApi",
   "license": {
     "type": "MIT",
