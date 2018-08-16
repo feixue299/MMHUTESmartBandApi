@@ -1,6 +1,6 @@
 {
   "name": "MMHUTESmartBandApi",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "homepage": "https://github.com/feixue299/MMHUTESmartBandApi",
   "license": {
     "type": "MIT",
@@ -13,5 +13,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "vendored_frameworks": "UTESmartBandApi.framework",
+  "vendored_frameworks": "UTESmartBandApi.framework"
 }
