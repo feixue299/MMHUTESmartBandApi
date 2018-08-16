@@ -1,2 +1,2 @@
 # MMHUTESmartBandApi
-妈妈好手环API
+手环API
